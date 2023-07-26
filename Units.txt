@@ -1,0 +1,39 @@
+1)
+
+pixels are fixed they dont change
+{px}
+
+2)
+
+%
+means
+depend upon on parent class/id according to screen size for parent one
+
+3)
+
+vw/vh
+depend on screen size 
+vw --- viewport width
+vh --- viewport heignt
+helpful for responsivness
+for text we use vw eg 7vw,6vw,e.t.c
+{vw >> vh }
+
+4)
+
+vmax vmin 
+vmax and vmin full form is {viewport maximum and viewport minimum }
+
+5)
+
+em , rem
+
+em full form 
+rem full form 
+its basic work is like that if we define 1em so it will be equal to parent size
+if 2em means it will be 2x of its parent size
+purely work with parent div
+rem r stands for root
+16px for 1rem
+
+
