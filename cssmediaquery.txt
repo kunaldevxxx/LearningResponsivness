@@ -1,0 +1,10 @@
+min height , min width 
+max height , max width 
+@media (max-width:600px) {
+   .box{
+    background-color: royalblue;
+   }
+
+
+egg
+android most device 600px
